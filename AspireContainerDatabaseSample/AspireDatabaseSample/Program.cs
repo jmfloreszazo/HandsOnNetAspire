@@ -1,6 +1,5 @@
 using AspireDatabaseSample.Service.Models;
 using AspireDatabaseSample.Service.Service;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 

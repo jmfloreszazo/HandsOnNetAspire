@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AspireDatabaseSample\AspireDatabaseSample.Service.csproj" />
+    <ProjectReference Include="..\AspireDatabaseSample\AspireDatabaseSample.Api.csproj" />
   </ItemGroup>
 
 </Project>

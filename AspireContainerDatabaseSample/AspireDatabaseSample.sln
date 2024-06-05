@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireDatabaseSample.Service", "AspireDatabaseSample\AspireDatabaseSample.Service.csproj", "{F19BDD55-D19F-4E2F-89F9-B7036561F560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireDatabaseSample.Api", "AspireDatabaseSample\AspireDatabaseSample.Api.csproj", "{F19BDD55-D19F-4E2F-89F9-B7036561F560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireDatabaseSample.AppHost", "AspireDatabaseSample.AppHost\AspireDatabaseSample.AppHost.csproj", "{58B11836-7D69-4788-984C-26354C7EDA4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireDatabaseSample.AppHost", "AspireDatabaseSample.AppHost\AspireDatabaseSample.AppHost.csproj", "{58B11836-7D69-4788-984C-26354C7EDA4C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireDatabaseSample.ServiceDefaults", "AspireDatabaseSample.ServiceDefaults\AspireDatabaseSample.ServiceDefaults.csproj", "{1AAD36C5-086D-449A-9B35-FC30D7FA57EF}"
 EndProject
